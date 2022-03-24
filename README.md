@@ -1,0 +1,1 @@
+Simple repository to try pipelines with Airflow and visualization with Dash using one of Rio's public transport API.
